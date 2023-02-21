@@ -1,6 +1,6 @@
 ## IPtable rules
 
-The default table "Filter" contains three chains, Input, Outout, Forward.
+The default table "Filter" contains three chains, Input, Output, Forward.
 
 List all rules "sudo iptables -Lvn", NOTE the rules in a Chain are applied in order top to bottom.
 
